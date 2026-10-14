@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn Markdown or text into focused knowledge cards"
+  default_prompt: "Use $make-knowledge-cards to turn this Markdown or text into clear knowledge cards."
